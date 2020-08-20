@@ -7,21 +7,18 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+## Apropos du projet
 
+Ceci est un projet pour devouvrir le framework Laravel. Les points abordés : Héritage des views, Class Controllers et Model, RelationShip, Migrations, Factory, Seeds, les formulaires et ui/auth
 
-## Contributing
+## Contribuant
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+Merci d'avoir envisagé de contribuer au projet. Le guide de contribution se trouve dans la documentation Laravel . [Laravel documentation](https://laravel.com/docs/contributions).
 
-## Code of Conduct
+## Vulnérabilités de sécurité
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Si vous découvrez une vulnérabilité dans le projet, veuillez envoyer un e-mail à Abe GNING via abrahamgning@gmail.com. Toutes les failles seront rapidement corrigées.
 
 ## License
 
-The project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Le projet est un logiciel open-source sous [MIT license](https://opensource.org/licenses/MIT).
